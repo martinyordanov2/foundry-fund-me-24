@@ -12,6 +12,8 @@ You'll know you did it right if you can run forge --version and you see a respon
 cd foundry-fund-me-cu
 make
 
+-----
+
 ## Usage
 
 ### Deploy
